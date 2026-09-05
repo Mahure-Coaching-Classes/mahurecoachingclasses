@@ -201,7 +201,7 @@ const Results = () => {
                         alt={topper.name}
                         className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                         onError={(e) => {
-                          e.target.src = 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80';
+                          e.target.src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZpBvQDeIcK8gNmwl4-K1WnlOHnYforngRQosaW_j-X0OFX3QrydzuYpc&s=10';
                         }}
                       />
                     </div>
