@@ -128,7 +128,7 @@ const Home = () => {
                 {/* Visual mathematical curve sketch with indicators */}
                 
                 <div id="" className="bg-secondary/20 dark:bg-dark text-slate-350 rounded-xl font-mono lg:text-xs lg:h-[500px] lg:w-[410px] md:h-[400px] md:w-[350px] h-[300px] w-[330px] sm:text-sm space-y-4 shadow-inner border border-slate-500">
-                  <img src="../../msir.png" alt="math" className="w-full h-full object-cover" />
+                  <img src="../../msir_new.png" alt="math" className="w-full h-full object-cover" />
                 </div>
 
                 {/* Floating geometry badges */}
