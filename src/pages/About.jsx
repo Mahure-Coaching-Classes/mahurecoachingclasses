@@ -132,7 +132,7 @@ const About = () => {
                   alt="Director Mr. Mahure"
                   className="rounded-xl w-full h-80 object-cover"
                   onError={(e) => {
-                    e.target.src = 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=500&q=80';
+                    e.target.src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZpBvQDeIcK8gNmwl4-K1WnlOHnYforngRQosaW_j-X0OFX3QrydzuYpc&s=10';
                   }}
                 />
                 <div className="mt-4 text-center">
